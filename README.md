@@ -1,1 +1,1 @@
-bontonlogo.png
+![Logo](logo.png)
