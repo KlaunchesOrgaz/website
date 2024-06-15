@@ -1,1 +1,1 @@
-![Logo](path/to/your/bontonlogo.png)
+bontonlogo.png
